@@ -69,7 +69,7 @@
 ### 📜 Certification
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/your-uploaded-certification-image.png](https://drive.google.com/file/d/11ZmY5OUB983Mq-n7Stw9kxS67UEvNMPT/view?usp=sharing)" alt="Microsoft Certified - Foundational C# with Microsoft" width="600" />
+  <img src="https://drive.google.com/file/d/11ZmY5OUB983Mq-n7Stw9kxS67UEvNMPT/view?usp=sharing" alt="Microsoft Certified - Foundational C# with Microsoft" width="600" />
 </p>
 
 <p align="center">
