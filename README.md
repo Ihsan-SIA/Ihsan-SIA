@@ -46,7 +46,9 @@
 
 ### 📫 Let’s Connect
 - 💌 ihsan.ahmadsodeko@gmail.com  
-- 🧑🏾‍💻 [LinkedIn](https://bit.ly/ihsanlinkedin)  
+- 🧑🏾‍💻 [LinkedIn](https://bit.ly/ihsanlinkedin)
+- X @AhmadSodeko
+- IG sodeko_ia
 - 🗺️ Lagos, Nigeria (UTC +1)
 
 ---
