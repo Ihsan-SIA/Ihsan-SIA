@@ -69,7 +69,7 @@
 ### 📜 Certification
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=11ZmY5OUB983Mq-n7Stw9kxS67UEvNMPT" width="600" />
+  <img src="https://drive.google.com/uc?id=11ZmY5OUB983Mq-n7Stw9kxS67UEvNMPT" width="600" alt="Microsoft Certification" />
 </p>
 
 <p align="center">
