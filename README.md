@@ -14,7 +14,7 @@
 - 💡 C# & .NET enthusiast building apps one console line at a time  
 - 🤓 Still figuring out why `;` bugs me when it’s missing  
 - 🛠️ Currently learning backend magic and Git wizardry  
-- 🧳 Lagos-based, cloud-curious, coffee-optional
+- 🧳 Lagos-based, cloud-curious, coffee-optional  
 
 ---
 
@@ -40,6 +40,42 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ihsan-SIA&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ihsan-SIA&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🔍 Developer Insights
+
+#### Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-SIA&layout=compact&theme=tokyonight"/>
+</p>
+
+#### WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ihsan-SIA&theme=tokyonight"/>
+</p>
+
+---
+
+### 🏆 GitHub Badges & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ihsan-SIA&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=6" />
+</p>
+
+---
+
+### 📜 Certification
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-uploaded-certification-image.png" alt="Microsoft Certified - Foundational C# with Microsoft" width="600" />
+</p>
+
+<p align="center">
+  🏅 Certified in <strong>Foundational C# with Microsoft</strong> — February 6, 2025 via freeCodeCamp  
+  <br>
+  38 Badges Earned · 6 Trophies Collected · Still pushing commits like it’s 2099
 </p>
 
 ---
