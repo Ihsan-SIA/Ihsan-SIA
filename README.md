@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 <h1 align="center">Hey there 👋 I'm Ihsan-Ahmad</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/First%20Class%20Marine%20Biologist-turned-Dev-9cf?style=flat-square" />
@@ -10,11 +9,13 @@
 
 ### 💻 About Me
 
-- 🧠 Junior Software Engineer who swapped petri dishes for pull requests  
-- 💡 C# & .NET enthusiast building apps one console line at a time  
-- 🤓 Still figuring out why `;` bugs me when it’s missing  
-- 🛠️ Currently learning backend magic and Git wizardry  
-- 🧳 Lagos-based, cloud-curious, coffee-optional  
+- 🧬 First-class Marine Biologist turned code-slinger — trading lab coats for debug logs  
+- 🧠 Junior Software Engineer with a knack for solving logic puzzles in C#  
+- 🧾 .NET enthusiast who treats console apps like personal art projects  
+- 😅 Breaks into a cold sweat when `;` goes missing — it’s personal now  
+- 🧙‍♂️ Practicing Git sorcery, backend spells, and cloud incantations  
+- 🧳 Based in Lagos, powered by curiosity, and occasionally coffee  
+- 🏆 Still earning badges like they’re Pokémon — gotta code 'em all!
 
 ---
 
@@ -81,10 +82,11 @@
 ---
 
 ### 📫 Let’s Connect
+
 - 💌 ihsan.ahmadsodeko@gmail.com  
-- 🧑🏾‍💻 [LinkedIn](https://bit.ly/ihsanlinkedin)
-- X @AhmadSodeko
-- IG sodeko_ia
+- 🧑🏾‍💻 [LinkedIn](https://bit.ly/ihsanlinkedin)  
+- 🐦 X (Twitter): [@AhmadSodeko](https://twitter.com/AhmadSodeko)  
+- 📷 IG: [sodeko_ia](https://instagram.com/sodeko_ia)  
 - 🗺️ Lagos, Nigeria (UTC +1)
 
 ---
