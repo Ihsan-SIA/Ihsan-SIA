@@ -21,15 +21,19 @@
 
 ### ⚙️ Tools & Tech
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%236B52AE.svg?style=flat&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-%236B52AE.svg?style=flat&logo=dotnet&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
 
+- ✅ [ToDoEase](https://github.com/Ihsan-SIA/ToDoEase) — A sleek and minimal task manager built in C# to help you stay on top of life (or at least your deadlines).  
+- 💳 [SIAWallet](https://github.com/Ihsan-SIA/SIAWallet) — Your personal banking app prototype with a secure login system and transaction logic — built in C# with backend functionality in mind.  
+- 🧾 [AboutMeta](https://github.com/Ihsan-SIA/AboutMeta) — A clean HTML & CSS replica of the Meta (Facebook) About page — [about.meta.com](http://about.meta.com/), built for layout precision and responsive structure.  
+- 💰 [IhsanVest](https://github.com/Ihsan-SIA/IhsanVest) — A faithful replica of PiggyVest’s savings dashboard built with HTML/CSS, showcasing modern fintech UI and smart layout styling.  
 - 🔐 [Password Generator](https://github.com/Ihsan-SIA/PhoneNumberAndPasswordGenerator) — secure randomness, no math degree needed  
 - 📊 [CGPA Calculator](https://github.com/Ihsan-SIA/CGPACalculator) — GPA stress relief in C#  
 - 🧠 [Quiz Game](https://github.com/Ihsan-SIA/TheUltimateQuizGame) — test your brain cells for fun  
